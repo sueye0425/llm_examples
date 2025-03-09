@@ -1,0 +1,6 @@
+.env
+*.pkl
+*.faiss
+*secret*
+*token*
+*.vtt
